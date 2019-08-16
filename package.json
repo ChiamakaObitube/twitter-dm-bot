@@ -9,6 +9,6 @@
   "author": "Youssouf El AZIZI and Chiamaka",
   "license": "ISC",
   "dependencies": {
-    "twit": "^2.2.9"
+    "twit": "^2.2.11"
   }
 }
